@@ -7,7 +7,9 @@ const allowedOrigins = [
   'https://project-mgmnt-systm.netlify.app',
   'https://www.project-mgmnt-systm.netlify.app',
   'https://project-mgmnt-systm.onrender.com',
-  'https://www.project-mgmnt-systm.onrender.com/',
+  'https://www.project-mgmnt-systm.onrender.com',
+  'https://www.project-mgmnt-systm.onrender.com/projects/*',
+  'https://project-mgmnt-systm.onrender.com/projects/*',
   'https://lucasconstantino.github.io'
 ]
 
